@@ -6,7 +6,7 @@ body {
 .quadrado {
     text-align: center;
     width: 50px;
-    background: rgb(252, 250, 140);
+    background: #000080;
     display: inline-block;
     padding: 40px;
     font-size: 60px;
